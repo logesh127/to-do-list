@@ -26,18 +26,6 @@ To-Do-List/
 ├── script.js        → JavaScript functionality  
 └── README.md        → Project overview
 
-🚀 How to Run the Project:
-
-1️⃣ Clone the repository  
-   `git clone https://github.com/logesh127/to-do-list.git`
-
-2️⃣ Navigate to the folder  
-   `cd to-do-list`
-
-3️⃣ Open `index.html` in your browser  
-   - Double-click the file, or  
-   - Use Live Server if you're using VS Code
-
 🔗 Live Project: [https://logesh-to-do-list.netlify.app/](https://logesh-to-do-list.netlify.app/)
 
 🧩 Functional Details:
