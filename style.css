@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin-top: 10%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 25px;
+    border-color: rgb(93, 201, 255);
+    background-color: rgb(87, 185, 250);
+    width: 40%;
+}
+.input{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    padding: 15px;
+}
+#inputtext{
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    font-size: 15px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: azure;
+    width: 300px;
+    height: 25px;
+}
+#add{
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 15px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: azure;
+    height: 70px;
+}
+#tasklist{
+    padding: 20px;
+    margin-top: 15px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.task{
+    padding: 15px;
+    margin-top: 15px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: whitesmoke;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: bisque;
+}
+.task-counter{
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.right,.wrong{
+    height: 50px;
+    width: 50px;
+    border: solid;
+    border-radius: 10px;
+    padding: 10px;
+}
+.right{
+    border-color: green;
+}
+.wrong{
+    margin-left: 10px;
+    border-color: red;
+}
+.strike{
+    text-decoration: line-through;
+    opacity: 0.7;
+}
