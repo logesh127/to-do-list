@@ -4,47 +4,61 @@ A simple and interactive To-Do List web app built using HTML, CSS, and JavaScrip
 
 ✨ Features:
 
-🔹 Add new tasks
-✅ Mark tasks as completed (with strikethrough)
-❌ Delete tasks
-🔢 Real-time task counter
-🎨 Clean and responsive UI
+🔹 Add new tasks  
+✅ Mark tasks as completed (with strikethrough)  
+❌ Delete tasks  
+🔢 Real-time task counter  
+🎨 Clean and responsive UI  
 🌐 Works entirely on front-end (no backend needed)
 
 🛠️ Technologies Used:
 
-📄 HTML5 – Structure of the app
-🎨 CSS3 – Styling and layout
-🧠 JavaScript (ES6) – Logic and DOM interaction
+📄 HTML5 – Structure of the app  
+🎨 CSS3 – Styling and layout  
+🧠 JavaScript (ES6) – Logic and DOM interaction  
 🔡 Google Fonts – Custom font (Poppins)
 
 📁 Project Structure:
 
-To-Do-List/
-├── index.html → Main HTML file
-├── style.css → Styling for layout and design
-├── script.js → JavaScript functionality
-└── README.txt → Project overview
+To-Do-List/  
+├── index.html       → Main HTML file  
+├── style.css        → Styling for layout and design  
+├── script.js        → JavaScript functionality  
+└── README.md        → Project overview
+
+🚀 How to Run the Project:
+
+1️⃣ Clone the repository  
+   `git clone https://github.com/logesh127/to-do-list.git`
+
+2️⃣ Navigate to the folder  
+   `cd to-do-list`
+
+3️⃣ Open `index.html` in your browser  
+   - Double-click the file, or  
+   - Use Live Server if you're using VS Code
+
+🔗 Live Project: [https://logesh-to-do-list.netlify.app/](https://logesh-to-do-list.netlify.app/)
 
 🧩 Functional Details:
 
-✏️ Enter a task in the input field and click "Add Task"
-🟢 Click ✓ to mark the task as completed (applies strikethrough)
-🔴 Click ✕ to delete the task
+✏️ Enter a task in the input field and click "Add Task"  
+🟢 Click ✓ to mark the task as completed (applies strikethrough)  
+🔴 Click ✕ to delete the task  
 🔄 The task counter updates automatically
 
 🚧 Future Enhancements:
 
-💾 Save tasks using LocalStorage
-🏷️ Add support for categories or tags
-⏰ Add due dates and reminders
+💾 Save tasks using LocalStorage  
+🏷️ Add support for categories or tags  
+⏰ Add due dates and reminders  
 🔀 Enable drag-and-drop to reorder tasks
 
 👤 Author:
 
-Logesh M
-Front-End Developer | Learner
-GitHub: https://github.com/logesh127
-LinkedIn: https://www.linkedin.com/in/logesh-m-96a019252/
+Logesh M  
+Front-End Developer | Learner  
+🔗 GitHub: [https://github.com/logesh127](https://github.com/logesh127)  
+🔗 LinkedIn: [https://www.linkedin.com/in/logesh-m-96a019252/](https://www.linkedin.com/in/logesh-m-96a019252/)
 
 ⭐ If you like this project, feel free to give it a star!
